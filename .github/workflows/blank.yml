@@ -2,7 +2,7 @@ name: resource_group
 on:
   push:
     branches:
-      - main
+      - master
       - 'features/**'
 permissions:
   id-token: write
